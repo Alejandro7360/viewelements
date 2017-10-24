@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewElements</string>
+    <string name="select_number">Select number: </string>
+    <string-array name="numbers_array">
+        <item>uno</item>
+        <item>dos</item>
+        <item>tres</item>
+        <item>cuarto</item>
+        <item>cinco</item>
+        <item>seis</item>
+        <item>siete</item>
+        <item>ocho</item>
+        <item>nueve</item>
+        <item>diez</item>
+    </string-array>
+</resources>
